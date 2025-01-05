@@ -22,7 +22,7 @@
     "test": "ava"
   },
   "devDependencies": {
-    "ava": "^3.1.0",
+    "ava": "^6.2.0",
     "rewire": "^4.0.1",
     "semver": "^7.1.2"
   },
